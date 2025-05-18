@@ -1,7 +1,3 @@
-# 🏥 Proyecto Clínica Sanitaria – Automatización de Reportes en Google Sheets
-
-## 📌 Descripción General
-
 Este proyecto tiene como objetivo optimizar la gestión interna de **Clínica Azul** mediante la automatización de reportes en Google Sheets. A través del uso de **Google Apps Script**, se busca simplificar el acceso a información clave para la toma de decisiones, mejorar la eficiencia operativa y contribuir a una mejor asignación de recursos médicos.
 
 ## 🎯 Objetivo del Proyecto
