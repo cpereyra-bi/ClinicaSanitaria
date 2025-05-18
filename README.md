@@ -8,7 +8,7 @@ Diseñar e implementar un sistema automatizado de reportes en **Google Sheets** 
 - Evaluar la **disponibilidad de recursos y equipamiento médico**.
 - Medir la **satisfacción de los pacientes** mediante encuestas.
 
-## Herramientas y Tecnologías Utilizadas
+## Herramientas Utilizadas
 
 - **Google Sheets**: Plataforma principal para visualización y gestión de los reportes.
 - **Google Apps Script**: Lenguaje de programación utilizado para la automatización del flujo de trabajo.
