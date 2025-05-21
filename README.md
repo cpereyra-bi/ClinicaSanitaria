@@ -4,14 +4,13 @@ Este proyecto tiene como objetivo optimizar la gestión interna de **Clínica Az
 
 Diseñar e implementar un sistema automatizado de reportes en **Google Sheets** para:
 
-- Monitorear la **gestión de turnos médicos**.
-- Evaluar la **disponibilidad de recursos y equipamiento médico**.
-- Medir la **satisfacción de los pacientes** mediante encuestas.
+- Definir las **métricas principales** que necesitamos medir.
+- Desarrollar un **dashboard financiero**.
+- Desarrollar un **dashboard operativo**.
 
 ## Herramientas Utilizadas
 
 - **Google Sheets**: Plataforma principal para visualización y gestión de los reportes.
-- **Google Apps Script**: Lenguaje de programación utilizado para la automatización del flujo de trabajo.
 - **Formularios internos y bases de datos**: Fuente de los datos utilizados (no públicos).
 
 ## Metodología de Trabajo
